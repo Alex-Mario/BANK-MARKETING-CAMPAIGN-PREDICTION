@@ -13,7 +13,7 @@ Eksplorasi awal ke target features - subscribed, lalu eksplorasi ke kelompok num
 ## FEATURE DESCRIPTION
 Input variables:
 
-Bank client data :
+Bank client data:
 
 1 - age (numeric)<br>
 2 - job : type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student",
